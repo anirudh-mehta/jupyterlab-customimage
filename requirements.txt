@@ -1,0 +1,2 @@
+jupyterthemes>=0.18.2
+jupyter_contrib_nbextensions>=0.3.2
